@@ -1,0 +1,66 @@
+/* ===== GENERAL ===== */
+body {
+    font-family: Arial;
+    background-color: #111;
+    color: white;
+    margin: 0;
+}
+
+/* ===== TITULO ===== */
+h1 {
+    text-align: center;
+    background-color: red;
+    padding: 10px;
+}
+
+/* ===== SECCIONES ===== */
+section {
+    margin: 15px;
+    padding: 10px;
+    background-color: #222;
+}
+
+/* ===== TITULOS ===== */
+h2 {
+    color: red;
+}
+
+/* ===== IMAGENES ===== */
+img {
+    width: 300px;
+    margin: 5px;
+}
+
+/* ===== VIDEO ===== */
+video {
+    width: 300px;
+    display: block;
+    margin: 10px 0;
+}
+
+/* ===== AUDIO ===== */
+audio {
+    display: block;
+    margin: 10px 0;
+}
+
+/* ===== TABLA ===== */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid white;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: black;
+}
+
+/* ===== LINKS ===== */
+a {
+    color: red;
+}
